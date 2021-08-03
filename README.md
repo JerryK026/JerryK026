@@ -2,7 +2,7 @@
 ---
 ### My tech skills : Java, Spring, MySQL, Docker, Docker-compose, Python
 ### I'm currently learning on : MySQL, Spring, Java, Kubernetes
-### I'm currently interested in : Kubernetes, Kafka, Redis, Couchbase, Netty, Kotlin, Node.js, Typescript
+### I'm currently interested in : Kubernetes, Kafka, Redis
 
 <!--
 **JerryK026/JerryK026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
