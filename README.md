@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Seokyung Kim
+---
 ### My tech skills : Java, Spring, MySQL, Docker, Docker-compose, Python
-### I'm currently learning : MySQL, Spring, Java, Kubernetes
+### I'm currently learning on : MySQL, Spring, Java, Kubernetes
 ### I'm currently interested in : Kubernetes, Kafka, Redis, Couchbase, Netty, Kotlin, Node.js, Typescript
 
 <!--
