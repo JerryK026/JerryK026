@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Seokyung Kim
-My tech skills : Java, Spring, MySQL, Docker, Docker-compose, Python
-I'm currently learning : MySQL, Spring, Java
-I'm currently interested in : Kubernetes, Kafka, Redis, Couchbase, Netty, Kotlin, Node.js, Typescript
+### My tech skills : Java, Spring, MySQL, Docker, Docker-compose, Python
+### I'm currently learning : MySQL, Spring, Java, Kubernetes
+### I'm currently interested in : Kubernetes, Kafka, Redis, Couchbase, Netty, Kotlin, Node.js, Typescript
 
 <!--
 **JerryK026/JerryK026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
