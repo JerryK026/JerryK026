@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Seokyung Kim
 ---
 ### My tech skills : Java, Spring, MySQL, Docker, Linux, Python
-### I'm currently learning on : MySQL, Spring, Java, Kubernetes
-### I'm currently interested in : Kubernetes, Kafka, Redis
+### I'm currently learning on : MySQL, Spring, Java
+### I'm currently interested in : Kubernetes, Kafka, Redis, Kotlin
 
 <!--
 **JerryK026/JerryK026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
