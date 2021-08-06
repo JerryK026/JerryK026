@@ -1,9 +1,11 @@
-### Hi there 👋 I'm Seokyung Kim
+![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seo's%20hub&fontColor=FFFF&fontSize=90)
+
+### Hi there 👋 I'm a student who intend to be a backend engineer  
+### I interested in OOP skills and Distributed processing these days.
+
+<br />
 
 <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seokyung%20Kim&fontColor=FFFF&fontSize=90)
-
 
 ## 🛠️Tech stack
 
