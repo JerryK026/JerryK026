@@ -3,6 +3,9 @@
 ### My tech skills : Java, Spring, MySQL, Docker, Linux, Python
 ### I'm currently learning on : MySQL, Spring, Java
 ### I'm currently interested in : Kubernetes, Kafka, Redis, Kotlin
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryK026&count_private=true&show_icons=true)
+---
 
 <!--
 **JerryK026/JerryK026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
