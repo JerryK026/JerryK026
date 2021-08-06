@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seo's%20hub&fontColor=FFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seo's%20Hub&fontColor=FFFF&fontSize=90)
 
 Hi there 👋 I'm a student who intend to be a backend engineer 👩‍💻  
 I interested in OOP skills and Distributed processing these days. 💪
