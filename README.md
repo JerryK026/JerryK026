@@ -2,7 +2,7 @@
 
 <div align=center>
 
-Student intend to be a backend engineer. 👩‍💻
+Student intend to be a backend engineer. 👩‍💻  
 Currently interested in OOP skills and MSA. 💪
 
 <br />
