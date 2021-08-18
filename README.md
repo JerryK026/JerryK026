@@ -26,9 +26,6 @@ Currently interested in OOP skills and MSA these days. 💪
 
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryK026&count_private=true&show_icons=true)
-
 <!--
 **JerryK026/JerryK026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
