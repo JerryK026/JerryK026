@@ -3,7 +3,7 @@
 <div align=center>
 
 Hi there 👋 I'm a student intend to be a backend engineer 👩‍💻  
-Currently interested in OOP skills and MSA these days. 💪
+Currently interested in OOP skills and MSA. 💪
 
 <br />
 
