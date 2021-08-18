@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seo's%20Hub&fontColor=FFFF&fontSize=90)
 
+<div align=center>
+
 Hi there 👋 I'm a student intend to be a backend engineer 👩‍💻  
 Currently interested in OOP skills and MSA these days. 💪
 
 <br />
 
-<div align=center>
+
 
 ## 🛠️Tech stack
 
