@@ -5,6 +5,8 @@
 Student intend to be a backend engineer. 👩‍💻  
 Currently interested in OOP skills and MSA. 💪
 
+[이력서](https://reinvented-lathe-cc7.notion.site/5fba9fed590641c8867f2988970d26bb)
+[Resume](https://reinvented-lathe-cc7.notion.site/d5e5a9b4b8bf482f90aae1fd9fb8d00e)
 <br />
 
 
