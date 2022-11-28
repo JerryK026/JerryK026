@@ -4,7 +4,7 @@
 
 Interested in Backend / DevOps / Cloud
 
-[이력서](https://reinvented-lathe-cc7.notion.site/5fba9fed590641c8867f2988970d26bb)
+[이력서](https://hexagonal-boot-acb.notion.site/c967ccae4f6b4eefb0600c8f2e1f18a4)
 [Resume](https://reinvented-lathe-cc7.notion.site/d5e5a9b4b8bf482f90aae1fd9fb8d00e)
 <br />
 
