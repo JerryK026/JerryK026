@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Seo's%20Hub&fontColor=FFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=92beff&height=300&section=header&text=Soko%20Kim&fontColor=FFFF&fontSize=90)
 
 <div align=center>
 
