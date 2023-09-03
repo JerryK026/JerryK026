@@ -2,10 +2,9 @@
 
 <div align=center>
 
-Interested in Backend / DevOps / Cloud
+Interested in Backend
 
 [이력서](https://hexagonal-boot-acb.notion.site/c967ccae4f6b4eefb0600c8f2e1f18a4)
-[Resume](https://reinvented-lathe-cc7.notion.site/d5e5a9b4b8bf482f90aae1fd9fb8d00e)
 <br />
 
 
