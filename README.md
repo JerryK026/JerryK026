@@ -4,8 +4,7 @@
 
 Interested in Backend
 
-[이력서](https://www.figma.com/file/naDkkSXQPKgkVzbzWasGhh/Resume?type=design&node-id=0-1&mode=design&t=My6hr11y8U1Yuc39-0) | 
-[포트폴리오](https://hexagonal-boot-acb.notion.site/d6d92314063d47fb98c9f5e08a8d6152?pvs=4)
+[이력서](https://www.figma.com/file/naDkkSXQPKgkVzbzWasGhh/Resume?type=design&node-id=0-1&mode=design&t=My6hr11y8U1Yuc39-0)
 <br />
 
 
