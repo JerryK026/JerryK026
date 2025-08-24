@@ -4,7 +4,7 @@
 
 A backend dev
 
-[이력서]([https://www.figma.com/file/naDkkSXQPKgkVzbzWasGhh/Resume?type=design&node-id=0-1&mode=design&t=My6hr11y8U1Yuc39-0](https://www.figma.com/design/kgRHdb1wZs28UZAgoAcIlf/%EC%B0%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&p=f&t=beVg7ha1SPzycs45-0))
+[이력서](https://www.figma.com/design/kgRHdb1wZs28UZAgoAcIlf/%EC%B0%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&p=f&t=beVg7ha1SPzycs45-0)
 <br />
 
 
